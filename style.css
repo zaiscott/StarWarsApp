@@ -1,0 +1,114 @@
+body{
+
+    background-image:  url("space-1164579_960_720.png");
+
+    
+
+}
+
+.names { 
+
+       
+
+
+
+    display:inline;
+
+            float: left;
+
+            padding-top: 100px;
+
+            padding-right: 50px;
+
+            padding-left: 600px;
+
+            color: yellow;
+
+            text-decoration: underline;
+
+            font-size: 25px;
+
+}
+
+.names2 { 
+
+               
+
+
+
+        float:left;
+
+        padding-top: 100px;
+
+            padding-right: 50px;
+
+        
+
+           color: yellow;
+
+            text-decoration: underline;
+
+    font-size: 25px;
+
+}
+
+.names3{
+
+
+
+    float:left;
+
+   padding-top: 100px;
+
+            padding-right: 50px;
+
+
+
+    color: yellow;
+
+    text-decoration: underline;
+
+    font-size: 25px;
+
+}
+
+li{
+
+    width: 50px; 
+
+    padding: 5px;
+
+    
+
+    color: yellow;
+
+    list-style-position: inherit;
+
+}
+
+.main{
+
+    text-align: center;
+
+    color: yellow;
+
+}
+
+h3{ text-align: center;
+
+color: yellow;}
+
+
+
+.infoList{ 
+
+    
+
+    padding: 200px;
+
+    font-size: 25px;
+
+    float: inherit;
+
+}
+
